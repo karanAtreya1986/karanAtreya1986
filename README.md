@@ -1,6 +1,6 @@
 ### Hi there friends 👋
 
-#### I am Karan Atreya. 12 years of experience in Testing field. Started with Manual Testing, then moved to Automation Testing using Selenium WebDriver with Java, Cucumber BDD, API testing with Postman and Rest Assured, database testing.
+#### I am Karan Atreya having experience in Software Testing field. Started with Manual Testing, then moved to Automation Testing using Selenium WebDriver with Java, Cucumber BDD, API testing with Postman and Rest Assured, database testing.
 #### I would like to collaborate with fellow testers to learn from them and also to help them in finding out some solutions when needed.
 
 - 🔭 I’m currently working on **Selenium, Cucumber, Test Complete, API Testing with Postman and Rest Assured**
