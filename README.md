@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on Test Automation
 - 🤔 I’m looking to **collaborate with fellow testers from whom I can learn**
 - 💬 Ask me about **Selenium, API testing with Postman, Rest Assured**
-- 📫 How to reach me: **linkedin.com/in/karanatreya**
+- 📫 How to reach me: **[GitHub Pages]**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I like to keep improving myself by learning from others**
 
