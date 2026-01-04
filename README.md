@@ -7,13 +7,13 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/karanAtreya1986">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=800&height=45&lines=SDET%20focused%20on%20scalable%20test%20automation%20%26%20CI%2FCD" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=800&height=45&lines=SDET%20focussed%20on%20scalable%20test%20automation%20and%20CI%2FCD" alt="Typing SVG" />
 </a>
 
 <!-- PROFILE BADGES -->
 <p>
   <img src="https://img.shields.io/badge/Focus-Test-70a5fd?style=for-the-badge" alt="focus"/>
-  <img src="https://img.shields.io/badge/2+_Years-On_GitHub-70a5fd?style=for-the-badge" alt="years"/>
+  <img src="https://img.shields.io/badge/3+_Years-On_GitHub-70a5fd?style=for-the-badge" alt="years"/>
   
   <img src="https://komarev.com/ghpvc/?username=karanAtreya1986&style=for-the-badge&color=70a5fd" alt="views"/>
 </p>
@@ -29,22 +29,15 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="30" height="30" /> About Me
 
-<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanAtreya1986&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" width="320" alt="Top Languages"/> -->
-
-<!-- <img align="right"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanAtreya1986&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=ffffff&langs_count=6&cache_seconds=21600"
-     width="320" /> -->
-
-<img height="180em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanAtreya1986&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=ffffff&langs_count=8&cache_seconds=21600"
-/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanAtreya1986&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" width="320" alt="Top Languages"/>
 
 
 
 💼 **13+ years in manual testing, automation testing, devops**
 
-🔭 Currently working on **[kk-testing-llm-apps-complete-code](https://github.com/karanAtreya1986/kk-testing-llm-apps-complete-code)**
+🔭 Currently working on **[karanAtreya1986](https://github.com/karanAtreya1986/karanAtreya1986)**
 
+🌱 Currently learning **AI testing**
 
 
 🎓 Certifications: **ISTQB**
@@ -61,8 +54,8 @@
 <img src="https://img.shields.io/badge/💼_Hiring-Open-success?style=for-the-badge" alt="Hiring"/>
 <img src="https://img.shields.io/badge/🤝_Collaboration-Welcome-blue?style=for-the-badge" alt="Collaboration"/>
 <img src="https://img.shields.io/badge/💰_Freelance-Available-orange?style=for-the-badge" alt="Freelance"/>
-
-
+<img src="https://img.shields.io/badge/🎤_Speaking-Interested-purple?style=for-the-badge" alt="Speaking"/>
+<img src="https://img.shields.io/badge/🧑‍🏫_Mentoring-Available-green?style=for-the-badge" alt="Mentoring"/>
 </p>
 
 
@@ -72,41 +65,17 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karanAtreya1986&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=ffffff&count_private=true"/>
-  <!-- <img height="180em"
-     src="https://github-readme-stats.vercel.app/api?username=karanAtreya1986&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=ffffff&cache_seconds=21600"/> -->
-
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanAtreya1986&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=ffffff&langs_count=8"/>
-  <!-- <img height="180em"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanAtreya1986&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=ffffff&langs_count=6&cache_seconds=21600"/> -->
-
 </div>
 
-<!-- <div align="center">
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=karanAtreya1986&theme=tokyonight&hide_border=true&background=0d1117&stroke=70a5fd&ring=70a5fd&fire=ff6b6b&currStreakLabel=70a5fd" alt="GitHub Streak"/>
-</div> -->
-
-<div align="center">
-<img
-  src="https://streak-stats.demolab.com?user=karanAtreya1986&theme=tokyonight&hide_border=true&background=0d1117&cache_seconds=21600"
-  alt="GitHub Streak"
-/>
 </div>
 
-
 <!-- GitHub Trophies -->
-<!-- <div align="center">
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=karanAtreya1986&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5" alt="Trophy"/>
-</div> -->
-
-
-<!-- GitHub Trophies -->
-<div align="center">
-<img
-  src="https://github-profile-trophy.vercel.app/?username=karanAtreya1986&theme=tokyonight&no-frame=true&no-bg=true&column=5&margin-w=5"
-  alt="Trophy"
-/>
 </div>
-
 
 ---
 
@@ -122,15 +91,22 @@
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="selenium"/>
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="playwright"/>
 <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="cypress"/>
+<img src="https://img.shields.io/badge/WebdriverIO-EA5906?style=for-the-badge&logo=webdriverio&logoColor=white" alt="webdriverio"/>
+<img src="https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white" alt="robotframework"/>
 <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="junit"/>
 <img src="https://img.shields.io/badge/TestNG-FF7300?style=for-the-badge&logo=testng&logoColor=white" alt="testng"/>
 <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white" alt="mocha"/>
+<img src="https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest"/>
 <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" alt="cucumber"/>
+<img src="https://img.shields.io/badge/SpecFlow-7B3399?style=for-the-badge&logo=specflow&logoColor=white" alt="specflow"/>
+<img src="https://img.shields.io/badge/Serenity_BDD-16A085?style=for-the-badge&logo=selenium&logoColor=white" alt="serenity"/>
 <img src="https://img.shields.io/badge/ExtentReports-00897B?style=for-the-badge&logo=extent&logoColor=white" alt="extentreports"/>
 <img src="https://img.shields.io/badge/Allure-FF6600?style=for-the-badge&logo=qameta&logoColor=white" alt="allure"/>
 <img src="https://img.shields.io/badge/REST_Assured-4CAF50?style=for-the-badge&logo=java&logoColor=white" alt="restassured"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql"/>
 <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" alt="jmeter"/>
+<img src="https://img.shields.io/badge/Gatling-FF9E2A?style=for-the-badge&logo=gatling&logoColor=white" alt="gatling"/>
 <img src="https://img.shields.io/badge/BrowserStack-FF6C37?style=for-the-badge&logo=browserstack&logoColor=white" alt="browserstack"/>
 </div>
 
@@ -162,9 +138,11 @@
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="githubactions"/>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/>
 <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab"/>
+<img src="https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white" alt="circleci"/>
 <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="azuredevops"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
 <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="maven"/>
+<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="gradle"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="jira"/>
 <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="maven"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
@@ -185,12 +163,12 @@
 
 <div align="center">
 
+<a href="https://github.com/karanAtreya1986/karanAtreya1986"><img src="https://github-readme-stats.vercel.app/api/pin/?username=karanAtreya1986&repo=karanAtreya1986&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="karanAtreya1986"/></a>
 <a href="https://github.com/karanAtreya1986/kk-testing-llm-apps-complete-code"><img src="https://github-readme-stats.vercel.app/api/pin/?username=karanAtreya1986&repo=kk-testing-llm-apps-complete-code&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="kk-testing-llm-apps-complete-code"/></a>
 <a href="https://github.com/karanAtreya1986/kk_section13_different_agents_which_can_be_used"><img src="https://github-readme-stats.vercel.app/api/pin/?username=karanAtreya1986&repo=kk_section13_different_agents_which_can_be_used&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="kk_section13_different_agents_which_can_be_used"/></a>
 <a href="https://github.com/karanAtreya1986/kk_section12_using_selenium_java_code_open_ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=karanAtreya1986&repo=kk_section12_using_selenium_java_code_open_ai&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="kk_section12_using_selenium_java_code_open_ai"/></a>
 <a href="https://github.com/karanAtreya1986/kk_section11_using_local_llm_to_perform_automation_testing"><img src="https://github-readme-stats.vercel.app/api/pin/?username=karanAtreya1986&repo=kk_section11_using_local_llm_to_perform_automation_testing&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="kk_section11_using_local_llm_to_perform_automation_testing"/></a>
 <a href="https://github.com/karanAtreya1986/kk_section10_using_genai_to_write_automation_code_visual_testing"><img src="https://github-readme-stats.vercel.app/api/pin/?username=karanAtreya1986&repo=kk_section10_using_genai_to_write_automation_code_visual_testing&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="kk_section10_using_genai_to_write_automation_code_visual_testing"/></a>
-<a href="https://github.com/karanAtreya1986/kk_section9_using_genai_to_write_automation_code"><img src="https://github-readme-stats.vercel.app/api/pin/?username=karanAtreya1986&repo=kk_section9_using_genai_to_write_automation_code&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="kk_section9_using_genai_to_write_automation_code"/></a>
 
 </div>
 
@@ -207,6 +185,13 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><a href="https://github.com/karanAtreya1986/karanAtreya1986"><b>karanAtreya1986</b></a></td>
+<td>No description</td>
+<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
+<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
+<td><img src="https://img.shields.io/badge/N%2FA-gray?style=flat-square" alt="language"/></td>
+</tr>
 <tr>
 <td><a href="https://github.com/karanAtreya1986/kk-testing-llm-apps-complete-code"><b>kk-testing-llm-apps-complete-code</b></a></td>
 <td>No description</td>
@@ -242,13 +227,6 @@
 <td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
 <td><img src="https://img.shields.io/badge/N%2FA-gray?style=flat-square" alt="language"/></td>
 </tr>
-<tr>
-<td><a href="https://github.com/karanAtreya1986/kk_section9_using_genai_to_write_automation_code"><b>kk_section9_using_genai_to_write_automation_code</b></a></td>
-<td>No description</td>
-<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
-<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/N%2FA-gray?style=flat-square" alt="language"/></td>
-</tr>
 </tbody>
 </table>
 
@@ -267,6 +245,7 @@
 | 🏆 Achievement | 📊 Status |
 |:-------------:|:---------:|
 | 📦 50+ Repositories | ✅ Unlocked |
+| 📅 3+ Years on GitHub | ✅ Unlocked |
 | 💻 Java Expert | ✅ Unlocked |
 
 </div>
@@ -289,7 +268,7 @@
 <img src="https://img.shields.io/badge/👥_Followers-1-purple?style=for-the-badge" alt="Followers"/>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/📅_Years_Active-2+-orange?style=for-the-badge" alt="Years"/>
+<img src="https://img.shields.io/badge/📅_Years_Active-3+-orange?style=for-the-badge" alt="Years"/>
 </td>
 </tr>
 </table>
