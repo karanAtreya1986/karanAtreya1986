@@ -81,14 +81,32 @@
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://streak-stats.demolab.com?user=karanAtreya1986&theme=tokyonight&hide_border=true&background=0d1117&stroke=70a5fd&ring=70a5fd&fire=ff6b6b&currStreakLabel=70a5fd" alt="GitHub Streak"/>
+</div> -->
+
+<div align="center">
+<img
+  src="https://streak-stats.demolab.com?user=karanAtreya1986&theme=tokyonight&hide_border=true&background=0d1117&cache_seconds=21600"
+  alt="GitHub Streak"
+/>
 </div>
+
+
+<!-- GitHub Trophies -->
+<!-- <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=karanAtreya1986&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5" alt="Trophy"/>
+</div> -->
+
 
 <!-- GitHub Trophies -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=karanAtreya1986&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5" alt="Trophy"/>
+<img
+  src="https://github-profile-trophy.vercel.app/?username=karanAtreya1986&theme=tokyonight&no-frame=true&no-bg=true&column=5&margin-w=5"
+  alt="Trophy"
+/>
 </div>
+
 
 ---
 
