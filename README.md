@@ -29,11 +29,15 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="30" height="30" /> About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanAtreya1986&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" width="320" alt="Top Languages"/>
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanAtreya1986&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" width="320" alt="Top Languages"/> -->
 
 <!-- <img align="right"
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanAtreya1986&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=ffffff&langs_count=6&cache_seconds=21600"
      width="320" /> -->
+
+<img height="180em"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanAtreya1986&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=ffffff&langs_count=8&cache_seconds=21600"
+/>
 
 
 
