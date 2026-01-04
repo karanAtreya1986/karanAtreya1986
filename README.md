@@ -42,20 +42,6 @@
 🎓 <strong>ISTQB Certified</strong>
 </p>
 
-<p>
-  📦
- <img
-  src="https://img.shields.io/github/search/karanAtreya1986?query=user%3AkaranAtreya1986&label=repositories"
-  alt="Repositories"
-/>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  👥
-  <img
-    src="https://img.shields.io/github/followers/karanAtreya1986?style=flat-square&color=70a5fd"
-    alt="Followers"
-  />
-</p>
-
 
 ---
 
