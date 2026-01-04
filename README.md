@@ -49,17 +49,20 @@
 
 <div align="center">
 
+<!-- GitHub Stats -->
 <img
-  height="160em"
-  src="https://github-readme-stats.vercel.app/api?username=karanAtreya1986&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=ffffff&count_private=true&cache_seconds=21600"
+  height="150"
+  src="https://github-readme-stats.vercel.app/api?username=karanAtreya1986&show_icons=true&hide_border=true&theme=tokyonight&count_private=true"
 />
 
+<!-- Most Used Languages -->
 <img
-  height="160em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanAtreya1986&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=ffffff&langs_count=6&cache_seconds=21600"
+  height="150"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanAtreya1986&layout=compact&hide_border=true&theme=tokyonight"
 />
 
 </div>
+
 
 ---
 
