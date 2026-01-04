@@ -43,17 +43,19 @@
 </p>
 
 <p>
-<img
+  📦
+  <img
     src="https://img.shields.io/github/repos/karanAtreya1986?style=flat-square&color=70a5fd"
     alt="Repositories"
   />
   &nbsp;&nbsp;|&nbsp;&nbsp;
-  
-<img
+  👥
+  <img
     src="https://img.shields.io/github/followers/karanAtreya1986?style=flat-square&color=70a5fd"
     alt="Followers"
   />
 </p>
+
 
 ---
 
